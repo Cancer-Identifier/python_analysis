@@ -1,6 +1,6 @@
 # Baixar arquivo do projeto
 
-CLonar o repositório numa pasta nova separada.
+Clonar o repositório numa pasta nova separada.
 
 # Importar projeto no Visual Studio
 
